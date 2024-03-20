@@ -39,7 +39,7 @@ export default function Skills() {
         <section id='skills'>
             <div className="container">
                 <div className='skills-container'>
-                    <h2>Skills</h2>
+                    <h2>Compétences</h2>
                     <p>Showcase your skills and expertise here. List your proficiency in various technologies, programming languages, frameworks, and tools.
                         Highlight your strengths and capabilities to potential employers or clients.
                         Organize your skills into categories or levels of proficiency for a comprehensive overview.
@@ -62,13 +62,13 @@ export default function Skills() {
                                         }}
                                     />
                                 </div>
-                                <h5>React</h5>
+                                <h5>HTML</h5>
                             </div>
                             <div className="item">
                                 <div className='cir-bar cir-bar-size'>
-                                    <h3>90%</h3>
+                                    <h3>85%</h3>
                                     <Circle
-                                        percent={90}
+                                        percent={85}
                                         strokeLinecap="round"
                                         strokeWidth={5}
                                         trailWidth={5}
@@ -80,13 +80,13 @@ export default function Skills() {
                                         }}
                                     />
                                 </div>
-                                <h5>Bootsrap</h5>
+                                <h5>CSS/SASS</h5>
                             </div>
                             <div className="item">
                                 <div className='cir-bar cir-bar-size'>
-                                    <h3>97%</h3>
+                                    <h3>80%</h3>
                                     <Circle
-                                        percent={97}
+                                        percent={80}
                                         strokeLinecap="round"
                                         strokeWidth={5}
                                         trailWidth={5}
@@ -102,9 +102,9 @@ export default function Skills() {
                             </div>
                             <div className="item">
                                 <div className='cir-bar cir-bar-size'>
-                                    <h3>88%</h3>
+                                    <h3>80%</h3>
                                     <Circle
-                                        percent={88}
+                                        percent={80}
                                         strokeLinecap="round"
                                         strokeWidth={5}
                                         trailWidth={5}
@@ -116,13 +116,13 @@ export default function Skills() {
                                         }}
                                     />
                                 </div>
-                                <h5>Node.js</h5>
+                                <h5>React</h5>
                             </div>
                             <div className="item">
                                 <div className='cir-bar cir-bar-size'>
-                                    <h3>83%</h3>
+                                    <h3>75%</h3>
                                     <Circle
-                                        percent={83}
+                                        percent={75}
                                         strokeLinecap="round"
                                         strokeWidth={5}
                                         trailWidth={5}
@@ -134,7 +134,7 @@ export default function Skills() {
                                         }}
                                     />
                                 </div>
-                                <h5>UI/UX</h5>
+                                <h5>Redux</h5>
                             </div>
                         </Slider>
                     </div>

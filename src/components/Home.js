@@ -1,14 +1,14 @@
 import React from 'react'
-import homeImg from '../assets/robo-wave-removebg-preview.png'
+import homeImg from '../assets/Pierrerond512.png'
 import { useTypewriter, Cursor } from 'react-simple-typewriter'
 import { IoArrowForwardCircleOutline } from "react-icons/io5";
 
 
 export default function Home() {
     const [text] = useTypewriter({
-        words: ['Maher Ahmed', 'Web Developer', 'Front End Developer'],
+        words: ['Pierre Delvacque', 'Devoleppeur Front-end'],
         loop: {},
-        typeSpeed: 80
+        typeSpeed: 60
     })
 
     return (
@@ -17,8 +17,8 @@ export default function Home() {
                 <div className='row g-3'>
                     <div className='col-lg-8 col-12'>
                         <div className='main-text'>
-                            <span className='welcome'>Welcome to my space</span>
-                            <h1>Hey! I'm <br />
+                            <span className='welcome'>Bienvenue dans mon portfolio</span>
+                            <h1>Hey! Je suis <br />
                                 <span> {text}</span>
                                 <span><Cursor /></span>
                             </h1>

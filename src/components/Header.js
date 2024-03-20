@@ -45,13 +45,13 @@ export default function Header() {
                                 className={activeLink === 'skills' ? "active links" : "links"}
                                 href="#skills"
                                 onClick={() => linkClick('skills')}>
-                                Skills
+                                Compétences
                             </Nav.Link>
                             <Nav.Link
                                 className={activeLink === 'explore' ? "active links" : "links"}
                                 href="#explore"
                                 onClick={() => linkClick('explore')}>
-                                Explore
+                                Projets
                             </Nav.Link>
                         </Nav>
                         <Nav className="social-icons">
