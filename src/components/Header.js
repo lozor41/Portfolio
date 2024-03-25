@@ -65,7 +65,6 @@ export default function Header() {
                                 <FaLinkedinIn />
                             </Nav.Link>
                         </Nav>
-                        <Nav.Link className="connect-btn" href="#connect">Let's Connect</Nav.Link>
                     </Navbar.Collapse>
                 </Container>
             </Navbar>

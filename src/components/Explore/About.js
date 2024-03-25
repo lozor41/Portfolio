@@ -15,24 +15,24 @@ export default function About() {
                 <div className="col-lg-6 col-12">
                     <ul className="m-0">
                         <li>
-                            <FiChevronRight /><b>Name:</b> Maher Ahmed Ali
+                            <FiChevronRight /><b>Name:</b> DELVACQUE Pierre
                         </li>
                         <li>
                             <FiChevronRight /><b>Email: </b>
-                            <a href="mailto:0maherahmed@gmail.com">0maherahmed@gmail.com</a>
+                            <a href="mailto:pierre-8992@outlook.fr">pierre-8992@outlook.fr</a>
                         </li>
                         <li>
-                            <FiChevronRight /><b>Degree:</b> Bachelor's degree in Computer Science
+                            <FiChevronRight /><b>Degree:</b> Devoleppeur Front end
                         </li>
                     </ul>
                 </div>
                 <div className="col-lg-6 col-12">
                     <ul className="m-0">
                         <li>
-                            <FiChevronRight /><b>Languages:</b> Arabic / English
+                            <FiChevronRight /><b>Languages:</b> French / English
                         </li>
                         <li>
-                            <FiChevronRight /><b>City:</b> Cairo, Egypt
+                            <FiChevronRight /><b>City:</b> France
                         </li>
                         <li>
                             <FiChevronRight /><b>Freelance:</b> Available

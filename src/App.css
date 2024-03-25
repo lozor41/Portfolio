@@ -18,7 +18,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #10E956;
+  background-color: #9821E1;
 }
 
 section {
@@ -83,7 +83,7 @@ header {
   transition: .2s;
   width: 0%;
   height: 0%;
-  background-color: #10E956;
+  background-color: #9821E1;
 }
 
 .social-icons .icon:hover::before {
@@ -98,7 +98,7 @@ header {
 
 .navigation .active {
   font-weight: bold !important;
-  color: #10E956 !important;
+  color: #9821E1 !important;
 }
 
 .connect-btn {
@@ -122,8 +122,8 @@ header {
   left: 0;
   width: 0%;
   height: 100%;
-  background-color: #10E956;
-  border-color: #10E956;
+  background-color: #9821E1;
+  border-color: #9821E1;
   z-index: -1;
   transition: 0.3s ease-in-out;
 }
@@ -180,7 +180,7 @@ main {
   letter-spacing: 0.8px;
   text-transform: capitalize;
   padding: 8px 10px;
-  background: linear-gradient(90.21deg, #10e9556b -5.91%, #0508107e 111.58%);
+  background: linear-gradient(90.21deg,#9821E1 -5.91%, #0508107e 111.58%);
   border: 1px solid rgba(255, 255, 255, 0.5);
   font-size: 20px;
   margin-bottom: 16px;
@@ -195,7 +195,7 @@ main {
 }
 
 .main-text h1 span {
-  color: #10E956;
+  color: #9821E1;
 }
 
 @media (max-width: 500px) {
@@ -272,9 +272,9 @@ main {
   border-radius: 64px;
   background-color: #12141D;
   padding: 3rem 3rem 2.7rem;
-  box-shadow: inset 0 0 4px 1px #14e956;
-  -webkit-box-shadow: inset 0 0 4px 1px #14e956;
-  -moz-box-shadow: inset 0 0 4px 1px #14e956;
+  box-shadow: inset 0 0 4px 1px #9821E1;
+  -webkit-box-shadow: inset 0 0 4px 1px #9821E1;
+  -moz-box-shadow: inset 0 0 4px 1px #9821E1;
 }
 
 .skills-container h2 {
@@ -393,7 +393,7 @@ main {
   top: 0;
   width: 0;
   left: 0;
-  background: linear-gradient(90.21deg, #10e9556b -5.91%, #0508107e 111.58%);
+  background: linear-gradient(90.21deg,#9821E1 -5.91%, #0508107e 111.58%);
   transition: width 0.3s ease-in-out;
 }
 
@@ -415,7 +415,7 @@ main {
   position: absolute;
   width: 100%;
   height: 0;
-  background: linear-gradient(90.21deg, #10e955 -5.91%, #050810 111.58%);
+  background: linear-gradient(90.21deg, #9821E1 -5.91%, #050810 111.58%);
   opacity: 0.85;
   transition: .3s ease-in-out;
 }
@@ -472,9 +472,9 @@ main {
   border-radius: 64px;
   background-color: #12141D;
   padding: 3rem;
-  box-shadow: inset 0 0 4px 1px #14e956;
-  -webkit-box-shadow: inset 0 0 4px 1px #14e956;
-  -moz-box-shadow: inset 0 0 4px 1px #14e956;
+  box-shadow: inset 0 0 4px 1px #9821E1;
+  -webkit-box-shadow: inset 0 0 4px 1px #9821E1;
+  -moz-box-shadow: inset 0 0 4px 1px #9821E1;
 }
 
 .about-container .me-text {
@@ -496,7 +496,7 @@ main {
   left: 40px;
   width: 100px;
   height: 1px;
-  background-color: #10e955;
+  background-color: #9821E1;
 }
 
 .about-container h3 {
@@ -506,7 +506,7 @@ main {
 }
 
 .about-container h4 {
-  color: #14e956;
+  color: #9821E1;
   font-size: 22px;
 }
 
@@ -527,7 +527,7 @@ main {
 }
 
 .about-container ul li>svg {
-  color: #10e955;
+  color: #9821E1;
   font-size: 20px;
   margin-right: 5px;
 }
@@ -538,7 +538,7 @@ main {
 
 .about-container li a {
   text-decoration: none;
-  color: #10e955;
+  color: #9821E1;
 }
 
 .counts {
@@ -565,7 +565,7 @@ main {
 }
 
 .counts span svg {
-  color: #10E956;
+  color: #9821E1;
   font-size: 23px;
 }
 
@@ -604,9 +604,9 @@ main {
   border-radius: 8px;
   color: #121212;
   background-color: #12141D;
-  box-shadow: inset 0 0 4px 1px #14e956;
-  -webkit-box-shadow: inset 0 0 4px 1px #14e956;
-  -moz-box-shadow: inset 0 0 4px 1px #14e956;
+  box-shadow: inset 0 0 4px 1px #9821E1;
+  -webkit-box-shadow: inset 0 0 4px 1px #9821E1;
+  -moz-box-shadow: inset 0 0 4px 1px #9821E1;
   border: none;
   outline: none;
 }
@@ -619,9 +619,9 @@ main {
   font-weight: 600;
   color: #fff;
   border: none;
-  box-shadow: inset 0 0 4px 1px #14e956;
-  -webkit-box-shadow: inset 0 0 4px 1px #14e956;
-  -moz-box-shadow: inset 0 0 4px 1px #14e956;
+  box-shadow: inset 0 0 4px 1px #9821E1;
+  -webkit-box-shadow: inset 0 0 4px 1px #9821E1;
+  -moz-box-shadow: inset 0 0 4px 1px #9821E1;
   border-radius: 8px;
   padding: 10px 40px;
   margin-top: 1.2rem;
@@ -638,7 +638,7 @@ main {
   left: 0;
   width: 0%;
   height: 100%;
-  background-color: #10E956;
+  background-color: #9821E1;
   border-radius: 8px;
   z-index: -1;
   transition: 0.3s ease-in-out;
@@ -673,9 +673,9 @@ footer {
   border-radius: 64px;
   background-color: #12141D;
   padding: 2.3rem;
-  box-shadow: inset 0 0 4px 1px #14e956;
-  -webkit-box-shadow: inset 0 0 4px 1px #14e956;
-  -moz-box-shadow: inset 0 0 4px 1px #14e956;
+  box-shadow: inset 0 0 4px 1px #9821E1;
+  -webkit-box-shadow: inset 0 0 4px 1px #9821E1;
+  -moz-box-shadow: inset 0 0 4px 1px #9821E1;
 }
 
 .news-letter h3 {
@@ -694,9 +694,9 @@ footer {
   border-radius: 30px;
   color: white;
   background-color: #12141D;
-  box-shadow: inset 0 0 4px 1px #14e956;
-  -webkit-box-shadow: inset 0 0 4px 1px #14e956;
-  -moz-box-shadow: inset 0 0 4px 1px #14e956;
+  box-shadow: inset 0 0 4px 1px #9821E1;
+  -webkit-box-shadow: inset 0 0 4px 1px #9821E1;
+  -moz-box-shadow: inset 0 0 4px 1px #9821E1;
   border: none;
   outline: none;
 }
@@ -709,9 +709,9 @@ footer {
   color: #fff;
   border: none;
   border-radius: 30px;
-  box-shadow: inset 0 0 4px 1px #14e956;
-  -webkit-box-shadow: inset 0 0 4px 1px #14e956;
-  -moz-box-shadow: inset 0 0 4px 1px #14e956;
+  box-shadow: inset 0 0 4px 1px #9821E1;
+  -webkit-box-shadow: inset 0 0 4px 1px #9821E1;
+  -moz-box-shadow: inset 0 0 4px 1px #9821E1;
   padding: 6px 35px;
   font-size: 18px;
   background-color: black;
@@ -726,7 +726,7 @@ footer {
   left: 0;
   width: 0%;
   height: 100%;
-  background-color: #10E956;
+  background-color: #9821E1;
   border-radius: 30px;
   z-index: -1;
   transition: 0.3s ease-in-out;
@@ -783,7 +783,7 @@ footer {
   transition: .2s;
   width: 0%;
   height: 0%;
-  background-color: #10E956;
+  background-color: #9821E1;
 }
 
 .footer-icons .icon:hover::before {

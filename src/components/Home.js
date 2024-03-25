@@ -1,7 +1,6 @@
 import React from 'react'
 import homeImg from '../assets/Pierrerond512.png'
 import { useTypewriter, Cursor } from 'react-simple-typewriter'
-import { IoArrowForwardCircleOutline } from "react-icons/io5";
 
 
 export default function Home() {
@@ -23,9 +22,8 @@ export default function Home() {
                                 <span><Cursor /></span>
                             </h1>
                             <p className='mt-4'>
-                                This is where you can add additional information about yourself or your projects. Feel free to write about your skills, experiences, or any other relevant details.
+                                Je suis nouveau dans le monde du développement web, étant un ancien paysagiste en reconversion j'ai une vision et un point de vue différent, étant aussi passionné de technologies et du monde du web c'était donc normal pour moi de me diriger vers cet vois.
                             </p>
-                            <a className='connect-span' href='#connect'>Let's Connect <IoArrowForwardCircleOutline className='arrow' /></a>
                         </div>
                     </div>
                     <div className='col-lg-4 col-12'>

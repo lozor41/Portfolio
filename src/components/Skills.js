@@ -40,10 +40,7 @@ export default function Skills() {
             <div className="container">
                 <div className='skills-container'>
                     <h2>Compétences</h2>
-                    <p>Showcase your skills and expertise here. List your proficiency in various technologies, programming languages, frameworks, and tools.
-                        Highlight your strengths and capabilities to potential employers or clients.
-                        Organize your skills into categories or levels of proficiency for a comprehensive overview.
-                        Keep this section updated with your latest skills and experiences.</p>
+                    <p>Voici une visualisation de mes compétences sur differents languages/outils de programations et framwork que j'ai obtenue au cours cette dernière année.</p>
                     <div className='skills-slider'>
                         <Slider {...settings}>
                             <div className="item">
@@ -57,8 +54,8 @@ export default function Skills() {
                                         trailColor='#12141D'
                                         strokeColor={{
                                             '0%': '#10E956',
-                                            '50%': '#0C8B30',
-                                            '100%': '#0A5A0D',
+                                            '50%': '#6841C8',
+                                            '100%': '#9C74FF',
                                         }}
                                     />
                                 </div>
@@ -75,8 +72,8 @@ export default function Skills() {
                                         trailColor='#12141D'
                                         strokeColor={{
                                             '0%': '#10E956',
-                                            '50%': '#0C8B30',
-                                            '100%': '#0A5A0D',
+                                            '50%': '#6841C8',
+                                            '100%': '#9C74FF',
                                         }}
                                     />
                                 </div>
@@ -93,8 +90,8 @@ export default function Skills() {
                                         trailColor='#12141D'
                                         strokeColor={{
                                             '0%': '#10E956',
-                                            '50%': '#0C8B30',
-                                            '100%': '#0A5A0D',
+                                            '50%': '#6841C8',
+                                            '100%': '#9C74FF',
                                         }}
                                     />
                                 </div>
@@ -111,8 +108,8 @@ export default function Skills() {
                                         trailColor='#12141D'
                                         strokeColor={{
                                             '0%': '#10E956',
-                                            '50%': '#0C8B30',
-                                            '100%': '#0A5A0D',
+                                            '50%': '#6841C8',
+                                            '100%': '#9C74FF',
                                         }}
                                     />
                                 </div>
@@ -129,8 +126,8 @@ export default function Skills() {
                                         trailColor='#12141D'
                                         strokeColor={{
                                             '0%': '#10E956',
-                                            '50%': '#0C8B30',
-                                            '100%': '#0A5A0D',
+                                            '50%': '#6841C8',
+                                            '100%': '#9C74FF',
                                         }}
                                     />
                                 </div>
