@@ -1,6 +1,6 @@
 import React from "react";
 import { FaGithub, FaLinkedinIn } from "react-icons/fa";
-import { ImFacebook } from "react-icons/im";
+import {Nav } from 'react-bootstrap';
 import { Link } from "react-router-dom";
 
 export default function Footer() {
@@ -23,17 +23,13 @@ export default function Footer() {
                     </div>
                     <div className="col-md-8 col-12">
                         <div className="footer-icons justify-content-md-end justify-content-start">
-                            <Link className="icon">
-                                <ImFacebook />
-                            </Link>
-                            <Link className="icon" href='https://github.com/lozor41'>
+                        <Nav.Link className="icon" href='https://github.com/lozor41'>
                                 <FaGithub />
-                            </Link>
+                            </Nav.Link>
                             <Link className="icon">
                                 <FaLinkedinIn />
                             </Link>
                         </div>
-                        <p className="footer-text text-md-end text-start">Copyright 2024. All rights reserved by Maher Ahmed</p>
                     </div>
                 </div>
             </div>

@@ -1,6 +1,4 @@
-import { ImFacebook } from "react-icons/im";
 import { FaLinkedinIn, FaGithub } from "react-icons/fa";
-import { Link } from "react-router-dom";
 import React from "react";
 import { Navbar, Nav, Container } from 'react-bootstrap';
 import { FaBars } from "react-icons/fa";
@@ -29,7 +27,6 @@ export default function Header() {
         <header className={scrolled ? "scrolled-header sticky-top" : "sticky-top"}>
             <Navbar expand="lg" className="navbar">
                 <Container className="py-lg-1 py-sm-1 d-flex justify-content-between align-items-center">
-                    <Link to="/" className="navbar-brand text-white fs-1 fw-bold">LOGO</Link>
                     <Navbar.Toggle aria-controls="navbarCollapse" style={{ color: 'white' }}>
                         <FaBars className="menu-icon" />
                     </Navbar.Toggle>
@@ -55,10 +52,7 @@ export default function Header() {
                             </Nav.Link>
                         </Nav>
                         <Nav className="social-icons">
-                            <Nav.Link className="icon">
-                                <ImFacebook />
-                            </Nav.Link>
-                            <Nav.Link className="icon" href='https://github.com/MaherAhmed0'>
+                            <Nav.Link className="icon" href='https://github.com/lozor41'>
                                 <FaGithub />
                             </Nav.Link>
                             <Nav.Link className="icon">
