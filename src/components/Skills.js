@@ -2,6 +2,12 @@ import { Circle } from 'rc-progress';
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import logohtml from '../assets/HTML5_logo.svg.png'
+import logocss from '../assets/CSS-Logo.png'
+import logosass from '../assets/Sass_Logor.svg.png'
+import logojs from '../assets/js-logo.png'
+import logoreact from '../assets/reactlogo.webp'
+import logoredux from '../assets/reduxlogo.png'
 
 export default function Skills() {
     var settings = {
@@ -59,7 +65,25 @@ export default function Skills() {
                                         }}
                                     />
                                 </div>
-                                <h5>HTML</h5>
+                                <p><img src={logohtml} alt='html'className='logoskill'></img></p>
+                            </div>
+                            <div className="item">
+                                <div className='cir-bar cir-bar-size'>
+                                    <h3>90%</h3>
+                                    <Circle
+                                        percent={90}
+                                        strokeLinecap="round"
+                                        strokeWidth={5}
+                                        trailWidth={5}
+                                        trailColor='#12141D'
+                                        strokeColor={{
+                                            '0%': '#10E956',
+                                            '50%': '#6841C8',
+                                            '100%': '#9C74FF',
+                                        }}
+                                    />
+                                </div>
+                                <p><img src={logocss} alt='css'className='logoskill'></img></p>
                             </div>
                             <div className="item">
                                 <div className='cir-bar cir-bar-size'>
@@ -77,7 +101,7 @@ export default function Skills() {
                                         }}
                                     />
                                 </div>
-                                <h5>CSS/SASS</h5>
+                                <p><img src={logosass} alt='sass'className='logoskill'></img></p>
                             </div>
                             <div className="item">
                                 <div className='cir-bar cir-bar-size'>
@@ -95,7 +119,7 @@ export default function Skills() {
                                         }}
                                     />
                                 </div>
-                                <h5>Javascript</h5>
+                                <p><img src={logojs} alt='js'className='logoskill'></img></p>
                             </div>
                             <div className="item">
                                 <div className='cir-bar cir-bar-size'>
@@ -113,7 +137,7 @@ export default function Skills() {
                                         }}
                                     />
                                 </div>
-                                <h5>React</h5>
+                                <p><img src={logoreact} alt='react'className='logoskill'></img></p>
                             </div>
                             <div className="item">
                                 <div className='cir-bar cir-bar-size'>
@@ -131,7 +155,7 @@ export default function Skills() {
                                         }}
                                     />
                                 </div>
-                                <h5>Redux</h5>
+                                <p><img src={logoredux} alt='redux'className='logoskill'></img></p>
                             </div>
                         </Slider>
                     </div>
