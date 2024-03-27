@@ -15,25 +15,25 @@ export default function Projects() {
         <div className="row g-4 mt-3">
             <div className="col-lg-4 col-md-6 col-12">
                 <div className="project-item">
-                    <img src={p4} alt="" className="img-fluid" />
+                    <img src={process.env.PUBLIC_URL + p4} alt="" className="img-fluid" />
                     <div className="project-details">
                         <h4>OhMyFood</h4>
-                        <p><img src={html} alt="logo html" className='logo-project'></img><img src={css} alt='logo css' className='logo-project'></img></p>
+                        <p><img src={process.env.PUBLIC_URL + html} alt="logo html" className='logo-project'></img><img src={process.env.PUBLIC_URL + css} alt='logo css' className='logo-project'></img></p>
                     </div>
                 </div>
             </div>
             <div className="col-lg-4 col-md-6 col-12">
                 <div className="project-item">
-                    <img src={p5} alt="" className="img-fluid" />
+                    <img src={process.env.PUBLIC_URL + p5} alt="" className="img-fluid" />
                     <div className="project-details">
                         <h4>Print'it</h4>
-                        <p><img src={js} alt='logo js' className='logo-project'></img></p>
+                        <p><img src={process.env.PUBLIC_URL + js} alt='logo js' className='logo-project'></img></p>
                     </div>
                 </div>
             </div>
             <div className="col-lg-4 col-md-6 col-12">
                 <div className="project-item">
-                    <img src={p9} alt="" className="img-fluid" />
+                    <img src={process.env.PUBLIC_URL + p9} alt="" className="img-fluid" />
                     <div className="project-details">
                         <h4>Nina Carducci</h4>
                         <p>référencement</p>
@@ -42,28 +42,28 @@ export default function Projects() {
             </div>
             <div className="col-lg-4 col-md-6 col-12">
                 <div className="project-item">
-                    <img src={p2} alt="" className="img-fluid" />
+                    <img src={process.env.PUBLIC_URL + p2} alt="" className="img-fluid" />
                     <div className="project-details">
                         <h4>Riding Cities</h4>
-                        <p><img src={html} alt="logo html" className='logo-project'></img></p>
+                        <p><img src={process.env.PUBLIC_URL + html} alt="logo html" className='logo-project'></img></p>
                     </div>
                 </div>
             </div>
             <div className="col-lg-4 col-md-6 col-12">
                 <div className="project-item">
-                    <img src={p3} alt="" className="img-fluid" />
+                    <img src={process.env.PUBLIC_URL + p3} alt="" className="img-fluid" />
                     <div className="project-details">
                         <h4>Booki</h4>
-                        <p><img src={html} alt="logo html" className='logo-project'></img><img src={css} alt='logo css' className='logo-project'></img></p>
+                        <p><img src={process.env.PUBLIC_URL + html} alt="logo html" className='logo-project'></img><img src={process.env.PUBLIC_URL + css} alt='logo css' className='logo-project'></img></p>
                     </div>
                 </div>
             </div>
             <div className="col-lg-4 col-md-6 col-12">
                 <div className="project-item">
-                    <img src={p8} alt="" className="img-fluid" />
+                    <img src={process.env.PUBLIC_URL + p8} alt="" className="img-fluid" />
                     <div className="project-details">
                         <h4>Kasa</h4>
-                        <p><img src={sass} alt="logo sass" className='logo-project'></img><img src={react_logo} alt='logo react' className='logo-project'></img></p>
+                        <p><img src={process.env.PUBLIC_URL + sass} alt="logo sass" className='logo-project'></img><img src={process.env.PUBLIC_URL + react_logo} alt='logo react' className='logo-project'></img></p>
                     </div>
                 </div>
             </div>

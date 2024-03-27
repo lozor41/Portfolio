@@ -28,7 +28,7 @@ export default function Home() {
                     </div>
                     <div className='col-lg-4 col-12'>
                         <figure className='d-flex justify-content-center align-align-items-center '>
-                            <img src={homeImg} className='img-fluid home-img' alt="" />
+                            <img src={process.env.PUBLIC_URL + homeImg} className='img-fluid home-img' alt="" />
                         </figure>
                     </div>
                 </div>
