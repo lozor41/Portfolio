@@ -416,6 +416,11 @@ main {
   border-radius: 30px;
   overflow: hidden;
   position: relative;
+  height: 100%;
+}
+
+.project-item .img-fluid {
+  height: 100%;
 }
 
 .project-item::before {

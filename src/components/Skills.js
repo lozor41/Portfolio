@@ -65,7 +65,7 @@ export default function Skills() {
                                         }}
                                     />
                                 </div>
-                                <p><img src={process.env.PUBLIC_URL + logohtml} alt='html'className='logoskill'></img></p>
+                                <p><img src={logohtml} alt='html'className='logoskill'></img></p>
                             </div>
                             <div className="item">
                                 <div className='cir-bar cir-bar-size'>
@@ -83,7 +83,7 @@ export default function Skills() {
                                         }}
                                     />
                                 </div>
-                                <p><img src={process.env.PUBLIC_URL + logocss} alt='css'className='logoskill'></img></p>
+                                <p><img src={logocss} alt='css'className='logoskill'></img></p>
                             </div>
                             <div className="item">
                                 <div className='cir-bar cir-bar-size'>
@@ -101,7 +101,7 @@ export default function Skills() {
                                         }}
                                     />
                                 </div>
-                                <p><img src={process.env.PUBLIC_URL + logosass} alt='sass'className='logoskill'></img></p>
+                                <p><img src={logosass} alt='sass'className='logoskill'></img></p>
                             </div>
                             <div className="item">
                                 <div className='cir-bar cir-bar-size'>
@@ -119,7 +119,7 @@ export default function Skills() {
                                         }}
                                     />
                                 </div>
-                                <p><img src={process.env.PUBLIC_URL + logojs} alt='js'className='logoskill'></img></p>
+                                <p><img src={logojs} alt='js'className='logoskill'></img></p>
                             </div>
                             <div className="item">
                                 <div className='cir-bar cir-bar-size'>
@@ -137,7 +137,7 @@ export default function Skills() {
                                         }}
                                     />
                                 </div>
-                                <p><img src={process.env.PUBLIC_URL + logoreact} alt='react'className='logoskill'></img></p>
+                                <p><img src={logoreact} alt='react'className='logoskill'></img></p>
                             </div>
                             <div className="item">
                                 <div className='cir-bar cir-bar-size'>
@@ -155,7 +155,7 @@ export default function Skills() {
                                         }}
                                     />
                                 </div>
-                                <p><img src={process.env.PUBLIC_URL + logoredux} alt='redux'className='logoskill'></img></p>
+                                <p><img src={logoredux} alt='redux'className='logoskill'></img></p>
                             </div>
                         </Slider>
                     </div>
