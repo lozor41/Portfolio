@@ -331,7 +331,6 @@ main {
 
 @media (max-width:767px) {
 .logoskill {
-  margin-left: 72px;
   margin-top: 15px;
   width: 50%;
 }
@@ -469,7 +468,7 @@ main {
 }
 
 .project-details .logo-project {
-  width: 25%;
+  width: 20%;
 }
 
 /* ---------------------------- Explore: TOOLS ---------------------------- */
