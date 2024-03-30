@@ -20,10 +20,10 @@ export default function Projects() {
                         <h4>OhMyFood</h4>
                         <p><img src={html} alt="logo html" className='logo-project'></img><img src={css} alt='logo css' className='logo-project'></img></p>
                         <div className='button-project'>
-                        <a href='https://github.com/lozor41/Ohmyfood-DP.git' className="button">
+                        <a href='https://github.com/lozor41/Ohmyfood-DP.git' className="btn">
                             Github
                         </a>
-                        <a href='https://lozor41.github.io/Ohmyfood-DP/' className="button">
+                        <a href='https://lozor41.github.io/Ohmyfood-DP/' className="btn">
                             Site
                         </a>
                         </div>
@@ -37,10 +37,10 @@ export default function Projects() {
                         <h4>Print'it</h4>
                         <p><img src={js} alt='logo js' className='logo-project'></img></p>
                         <div className='button-project'>
-                        <a href='https://github.com/lozor41/Print-it.git' className="button">
+                        <a href='https://github.com/lozor41/Print-it.git' className="btn">
                             Github
                         </a>
-                        <a href='https://lozor41.github.io/Print-it/' className="button">
+                        <a href='https://lozor41.github.io/Print-it/' className="btn">
                             Site
                         </a>
                         </div>
@@ -54,10 +54,10 @@ export default function Projects() {
                         <h4>724 Event</h4>
                         <p><img src={js} alt='logo js' className='logo-project'></img><img src={react_logo} alt='logo react' className='logo-project'></img></p>
                         <div className='button-project'>
-                        <a href='https://github.com/lozor41/Projet10-724event.git' className="button">
+                        <a href='https://github.com/lozor41/Projet10-724event.git' className="btn">
                             Github
                         </a>
-                        <a href='https://lozor41.github.io/Projet10-724event/' className="button">
+                        <a href='https://lozor41.github.io/Projet10-724event/' className="btn">
                             Site
                         </a>
                         </div>
@@ -71,10 +71,10 @@ export default function Projects() {
                         <h4>Riding Cities</h4>
                         <p><img src={html} alt="logo html" className='logo-project'></img></p>
                         <div className='button-project'>
-                        <a href='https://github.com/lozor41/https---github.com-lozor41-RingCities-P2.git' className="button">
+                        <a href='https://github.com/lozor41/https---github.com-lozor41-RingCities-P2.git' className="btn">
                             Github
                         </a>
-                        <a href='https://lozor41.github.io/https---github.com-lozor41-RingCities-P2/' className="button">
+                        <a href='https://lozor41.github.io/https---github.com-lozor41-RingCities-P2/' className="btn">
                             Site
                         </a>
                         </div>
@@ -88,10 +88,10 @@ export default function Projects() {
                         <h4>Booki</h4>
                         <p><img src={html} alt="logo html" className='logo-project'></img><img src={css} alt='logo css' className='logo-project'></img></p>
                         <div className='button-project'>
-                        <a href='https://github.com/lozor41/Booki-P3.git' className="button">
+                        <a href='https://github.com/lozor41/Booki-P3.git' className="btn">
                             Github
                         </a>
-                        <a href='https://lozor41.github.io/Booki-P3/' className="button">
+                        <a href='https://lozor41.github.io/Booki-P3/' className="btn">
                             Site
                         </a>
                         </div>
@@ -105,10 +105,10 @@ export default function Projects() {
                         <h4>Kasa</h4>
                         <p><img src={sass} alt="logo sass" className='logo-project'></img><img src={react_logo} alt='logo react' className='logo-project'></img></p>
                         <div className='button-project'>
-                        <a href='https://github.com/lozor41/Projet-8.git' className="button">
+                        <a href='https://github.com/lozor41/Projet-8.git' className="btn">
                             Github
                         </a>
-                        <a href='https://lozor41.github.io/Projet-8/' className="button">
+                        <a href='https://lozor41.github.io/Projet-8/' className="btn">
                             Site
                         </a>
                         </div>
