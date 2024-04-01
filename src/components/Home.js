@@ -1,5 +1,5 @@
 import React from 'react'
-import homeImg from '../assets/Pierrerond512.png'
+import homeImg from '../assets/pierrerondc.webp'
 import { useTypewriter, Cursor } from 'react-simple-typewriter'
 
 
@@ -17,12 +17,12 @@ export default function Home() {
                     <div className='col-lg-8 col-12'>
                         <div className='main-text'>
                             <span className='welcome'>Bienvenue dans mon portfolio</span>
-                            <h1>Hey! Je suis <br />
+                            <h1>Hey ! Je suis <br />
                                 <span> {text}</span>
                                 <span><Cursor /></span>
                             </h1>
                             <p className='mt-4'>
-                                Je suis nouveau dans le monde du développement web, ancien paysagiste en reconversion j'ai une vision globale des projets qui me sont proposés.<br /> Passionné de technologies et du monde du web, je veux donc mettre mes compétences au service de ma passion en choisissant cette voie.
+                                , et nouvellement diplômé !<br />Passionné de technologies, du web et de la création, je vous met à disposition mes nouvelles compétences.<br /> Grâce à mon expérience riche et variée, notamment en tant que paysagiste, j'aborde les projets avec une vision globale.<br />L'attention du détail et son intégration dans un monde plus vaste ; n'est-ce-pas ça, le développement du web ?   
                             
                             </p>
                         </div>

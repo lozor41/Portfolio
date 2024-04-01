@@ -46,7 +46,7 @@ export default function Skills() {
             <div className="container">
                 <div className='skills-container'>
                     <h2>Compétences</h2>
-                    <p>Voici une visualisation de mes compétences sur differents languages/outils de programations et framwork que j'ai obtenue au cours cette dernière année.</p>
+                    <p>Voici une visualisation de mes compétences, sur differents languages, outils de programations, et framwork, que j'ai obtenue depuis l'an dernier.</p>
                     <div className='skills-slider'>
                         <Slider {...settings}>
                             <div className="item">

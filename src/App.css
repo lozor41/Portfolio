@@ -209,7 +209,8 @@ main {
 }
 
 .main-text p {
-  max-width: 700px;
+  text-align: justify;
+  max-width: 600px;
   font-size: 18px;
   color: rgba(255, 255, 255, 0.89);
 }
@@ -271,7 +272,7 @@ main {
 .skills-container {
   border-radius: 64px;
   background-color: #12141D;
-  padding: 3rem 3rem 2.7rem;
+  padding: 2rem 3rem 2.7rem;
   box-shadow: inset 0 0 4px 1px #9821E1;
   -webkit-box-shadow: inset 0 0 4px 1px #9821E1;
   -moz-box-shadow: inset 0 0 4px 1px #9821E1;
@@ -494,36 +495,28 @@ main {
 }
 
 .about-container .me-text {
-  text-align: start;
-  font-size: 14px;
+  text-align: center;
+  font-size: 24px;
   font-weight: 500;
   padding: 0;
   margin: 0 0 .7rem 0;
   letter-spacing: 2px;
-  text-transform: uppercase;
   color: #aaa;
   position: relative;
 }
 
-.about-container .me-text::after {
-  content: "";
-  position: absolute;
-  top: 50%;
-  left: 40px;
-  width: 100px;
-  height: 1px;
-  background-color: #9821E1;
+.lign-me {
+  margin-top: -50px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 500;
+  color: #9821E1;
 }
 
 .about-container h3 {
   color: white;
   font-size: 2.2rem;
   margin-bottom: 1.5rem;
-}
-
-.about-container h4 {
-  color: #9821E1;
-  font-size: 22px;
 }
 
 .about-container .small-d {
