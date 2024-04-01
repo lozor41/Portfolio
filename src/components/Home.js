@@ -22,7 +22,8 @@ export default function Home() {
                                 <span><Cursor /></span>
                             </h1>
                             <p className='mt-4'>
-                                Je suis nouveau dans le monde du développement web, étant un ancien paysagiste en reconversion j'ai une vision et un point de vue différent, étant aussi passionné de technologies et du monde du web c'était donc normal pour moi de me diriger vers cet vois.
+                                Je suis nouveau dans le monde du développement web, ancien paysagiste en reconversion j'ai une vision global des projets qui me sont proposé.<br /> Passionné de technologies et du monde du web, je veux donc mettre mes compétences au service de ma passion en choisissant cette voie.
+                            
                             </p>
                         </div>
                     </div>
