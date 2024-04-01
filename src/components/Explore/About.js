@@ -4,8 +4,8 @@ export default function About() {
     return (
         <div className="about-container">
             <p className="me-text">Moi?</p>
-            <h3>A PROPOS DE MOI</h3>
-            <h4>Developpeur Front-End</h4>
+            <h3>ME CONCERNANT</h3>
+            <h4>Développeur Front-End</h4>
             <div className="row">
                 <div className="col-lg-6 col-12">
                     <ul className="m-0">
@@ -17,7 +17,7 @@ export default function About() {
                             <a href="mailto:pierre-8992@outlook.fr">pierre-8992@outlook.fr</a>
                         </li>
                         <li>
-                            <FiChevronRight /><b>Statut:</b> Devoleppeur Front end
+                            <FiChevronRight /><b>Statut:</b> Développeur/Integrateur Front end
                         </li>
                     </ul>
                 </div>
