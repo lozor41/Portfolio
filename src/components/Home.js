@@ -22,7 +22,7 @@ export default function Home() {
                                 <span><Cursor /></span>
                             </h1>
                             <p className='mt-4'>
-                                , et nouvellement diplômé !<br />Passionné de technologies, du web et de la création, je vous met à disposition mes nouvelles compétences.<br /> Grâce à mon expérience riche et variée, notamment en tant que paysagiste, j'aborde les projets avec une vision globale.<br />L'attention du détail et son intégration dans un monde plus vaste ; n'est-ce-pas ça, le développement du web ?   
+                                , et nouvellement diplômé !<br />Passionné de technologies, du web et de la création, je vous mets à disposition mes nouvelles compétences.<br /> Grâce à mon expérience riche et variée, notamment en tant que paysagiste, j'aborde les projets avec une vision globale.<br />L'attention du détail et son intégration dans un monde plus vaste ; n'est-ce-pas ça, le développement du web ?   
                             
                             </p>
                         </div>

@@ -11,7 +11,7 @@ export default function AppLayout() {
             <Home />
             <Skills />
             <ExploreLayout />
-            <Footer />
+            {/* <Footer /> */}
         </>
     )
 }

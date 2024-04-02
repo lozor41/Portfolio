@@ -55,7 +55,7 @@ export default function Header() {
                             <Nav.Link className="icon" href='https://github.com/lozor41'>
                                 <FaGithub />
                             </Nav.Link>
-                            <Nav.Link className="icon">
+                            <Nav.Link className="icon" href="https://www.linkedin.com/in/pierre-delvacque-1711082a6/">
                                 <FaLinkedinIn />
                             </Nav.Link>
                         </Nav>
